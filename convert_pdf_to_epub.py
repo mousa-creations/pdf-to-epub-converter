@@ -16,14 +16,14 @@ from pathlib import Path
 # ============================================================================
 
 # Path to your input PDF file
-INPUT_PDF = "D:\\books\\mybook.pdf"
+INPUT_PDF = "D:\\books\\podcast-code.pdf"
 
 # Path where the EPUB file will be saved
-OUTPUT_EPUB = "test_output/mybook.epub"
+OUTPUT_EPUB = "test_output\mybook.epub"
 
 # Book metadata
-BOOK_TITLE = "أدرس بذكاء وليس بجهد"
-AUTHOR_NAME = "كيفين بول"
+BOOK_TITLE = "شيفره البودكاست المفقوده"
+AUTHOR_NAME = "محمد موسي"
 
 # Force OCR mode (set to True if PDF has custom font encoding issues)
 # Set to True if you're getting garbled text in the output
