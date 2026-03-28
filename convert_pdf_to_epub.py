@@ -16,14 +16,14 @@ from pathlib import Path
 # ============================================================================
 
 # Path to your input PDF file
-INPUT_PDF = "/Users/hanyramadan/Downloads/temp_file_29940686 (1).pdf"
+INPUT_PDF = "D:\\books\\mybook.pdf"
 
 # Path where the EPUB file will be saved
-OUTPUT_EPUB = "test_output/temp_file_29940686.epub"
+OUTPUT_EPUB = "test_output/mybook.epub"
 
 # Book metadata
-BOOK_TITLE = "Converted PDF Document"
-AUTHOR_NAME = "PDF to EPUB Converter"
+BOOK_TITLE = "أدرس بذكاء وليس بجهد"
+AUTHOR_NAME = "كيفين بول"
 
 # Force OCR mode (set to True if PDF has custom font encoding issues)
 # Set to True if you're getting garbled text in the output
