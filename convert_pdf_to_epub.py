@@ -27,7 +27,7 @@ AUTHOR_NAME = "كيفين بول"
 
 # Force OCR mode (set to True if PDF has custom font encoding issues)
 # Set to True if you're getting garbled text in the output
-FORCE_OCR = True
+FORCE_OCR = False
 
 # ============================================================================
 # END OF USER CONFIGURATION
